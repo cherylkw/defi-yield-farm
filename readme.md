@@ -1,6 +1,6 @@
 # Yield Farming
 
-## About this exercise
+## About
 
 Taking flashloan from Dydx, Lending the flashloan to Compound, as it is collateral as to borrow in Compound.
 The loan from Compound will be used to repay Dydx. Once some interest is earned as lender in Compound, taking flashloan from Dydx again, repay the loan in Compound that was borrowed before with interest. Claim the underlying token, Comp token and interest earn, repay Dydx again. What's left is the profit earned from this yield farming.
